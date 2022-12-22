@@ -20,7 +20,7 @@
 
 ## PROJECT INTRODUCTION
 <a name="gioithieumonhoc"></a>
-### Technologies used / Languages
+### Used Technologies / Languages
 
 * C# Windows Form
 * .NET Framework
@@ -29,7 +29,7 @@
 ## PROJECT DETAILS
 <a name="congtrinh"></a>
 
-[Source code](https://github.com/truong11062002/Shopping_Online/tree/main/ShoppingOnline)
+[Source code]()
 
 ## IMPLEMENTATION
 <a name="implement"></a>
